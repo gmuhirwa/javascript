@@ -8,7 +8,7 @@
   var greeting = "Good Bye ";
   byeSpeaker.speak = function (name) {
   	this.name = name;
-  	console.log(greeting + "" + this.name);
+  	console.log(greeting + "" + name);
   }
   window.byeSpeaker = byeSpeaker; 
 
