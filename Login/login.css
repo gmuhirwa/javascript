@@ -1,0 +1,26 @@
+
+
+
+body {
+  background-color: none;
+  color: black;
+}
+
+p {
+ font-weight: bold;
+}
+#onclick, #forgot, #create {
+  background-color: blue;
+  color: white;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+#onclick {
+  width: 100px;
+}
+#forgot {
+  width: 150px;
+}
+#create {
+  width: 255px;
+}
